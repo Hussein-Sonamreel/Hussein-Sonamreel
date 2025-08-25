@@ -54,18 +54,3 @@ markdown
   <br/>
   <img src="https://github.com/Hussein-Sonamreel/Hussein-Sonamreel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
-```
-
----
-
-### **Step 3: Commit and Push**
-
-Once you are happy with the preview in VS Code, commit and push your work.
-
-1.  Open the terminal in VS Code (`Ctrl+` `).
-2.  Run the following commands:
-    ```bash
-    git add .
-    git commit -m "feat: Redesign profile README with new layout and snake animation"
-    git push
-    ```
