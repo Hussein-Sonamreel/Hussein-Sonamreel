@@ -1,55 +1,71 @@
-# 👋 Hi, I'm Hussein Sonamreel
+markdown
+<!-- The "Hero" Section with an Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hussein%20Salim&animation=fadeIn&fontAlignY=35&fontSize=50" />
 
-## 🧠 Full Stack JavaScript Developer | Editorial UI Architect | Accessibility Advocate
-
-I build systems that are resilient, scalable, and emotionally intelligent. My journey blends digital marketing, social media strategy, and full stack engineering—with a passion for transforming everyday interfaces into luxury editorial experiences.
-
-Whether it's modularizing React components, optimizing system performance, or designing inclusive UI with glassmorphism and dynamic accent logic, I bring clarity, accessibility, and polish to every pixel and line of code.
-
----
-
-## 🛠️ Technologies I Work With
-
-### 🎨 Front-End
-- **React.js**, **Next.js**
-- **JavaScript**, **CSS**, **SCSS**
-- **Tailwind CSS**, **MaterialUI**
-
-### ⚙️ Back-End
-- **Node.js**, **Express.js**
-- **Spring Boot**
-
-### 🗄️ Databases
-- **MongoDB**, **PostgreSQL**
-
-### 🔧 Miscellaneous
-- **Firebase**, **Git**, **GraphQL**, **OAuth**
+  <h3>
+    A Full Stack Developer blending hospitality finesse with digital excellence.
+  </h3>
+  
+  <p align="center">
+    <a href="[YOUR_PORTFOLIO_URL]" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-View_Live-0077B5?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+    </a>
+    <a href="[YOUR_LINKEDIN_URL]" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="[YOUR_RESUME_PDF_URL]" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-Download-0077B5?style=for-the-badge&logo=read-the-docs" alt="Resume"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🌱 A Little More About Me
-
-- 🔍 I specialize in **modular architecture**, **accessibility auditing**, and **system-level optimization**
-- 🧩 I love solving import errors and refactoring codebases for **scalability and resilience**
-- 🎯 Currently focused on building a centralized, editorial-grade React/Tailwind portfolio
-- 🛡️ Long-term mission: empowering users through robust, inclusive, and emotionally resonant digital experiences
-- 🧵 I believe every interface should tell a story—and every system should be built to last
+### About Me
+```yaml
+- 🧠 Full Stack JavaScript Developer | Editorial UI Architect | Accessibility Advocate
+- 🏨 Hospitality-trained professional turned digital storyteller.
+- 💡 I build resilient, scalable, and emotionally intelligent systems.
+- 🎨 My passion is transforming everyday interfaces into luxury editorial experiences.
+- ✨ Bringing clarity, accessibility, and polish to every pixel and line of code.
+```
 
 ---
 
-📬 Let’s connect, collaborate, and build something extraordinary.
-### 📊 GitHub Stats
+<h3 align="center">Tools & Technologies</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="httpsg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-![Hussein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HusseinSonamreel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinSonamreel&layout=compact&theme=radical)
+---
 
-### 🧰 Tech Stack Badges
+<h3 align="center">My GitHub Journey</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hussein-Sonamreel&show_icons=true&theme=dracula&rank_icon=github&count_private=true" alt="Hussein's GitHub Stats"/>
+  <br/>
+  <img src="https://github.com/Hussein-Sonamreel/Hussein-Sonamreel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+```
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+---
 
+### **Step 3: Commit and Push**
+
+Once you are happy with the preview in VS Code, commit and push your work.
+
+1.  Open the terminal in VS Code (`Ctrl+` `).
+2.  Run the following commands:
+    ```bash
+    git add .
+    git commit -m "feat: Redesign profile README with new layout and snake animation"
+    git push
+    ```
