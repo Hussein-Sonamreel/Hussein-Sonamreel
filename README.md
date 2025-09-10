@@ -29,8 +29,10 @@ Check out my live portfolio → [myportfolio-nine-pi-17.vercel.app](https://mypo
 - **Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion, OpenAI API
 - A sophisticated digital atelier that guides users through an interactive quiz to discover their brand's archetype, culminating in an AI-generated brand tagline.
 
-### 🌍 Project 3 *(Coming Soon)*  
-- Node.js + PostgreSQL project with advanced API integration.
+### ✨ BistroFlow
+- **Live:** [Live Demo](https://bistro-flow-sigma.vercel.app/) | [GitHub Repo](https://github.com/Hussein-Sonamreel/BistroFlow)
+- **Stack:** React, TypeScript, Vite, Tailwind CSS, Framer Motion, i18next
+- A modern, mobile-first ordering experience for restaurants, featuring a dynamic filterable menu, a client-side cart, and full multilingual (i18n) support.
 
 ---
 
