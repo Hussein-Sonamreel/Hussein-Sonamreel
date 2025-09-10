@@ -24,11 +24,13 @@ Check out my live portfolio → [myportfolio-nine-pi-17.vercel.app](https://mypo
 - **Stack:** React, Vite, TailwindCSS, Vercel  
 - Fully responsive personal site showcasing my projects, skills, and contact info.  
 
-### 📦 Project 2 *(Coming Soon)*  
-- Full-stack MERN app with authentication and REST API.  
+### ✨ Luxury Brand Persona Generator
+- **Live:** [Live Demo](https://luxury-brand-persona-generator.vercel.app) | [GitHub Repo](https://github.com/Hussein-Sonamreel/luxury-brand-persona-generator)
+- **Stack:** React, TypeScript, Vite, Tailwind CSS, shadcn/ui, Framer Motion, OpenAI API
+- A sophisticated digital atelier that guides users through an interactive quiz to discover their brand's archetype, culminating in an AI-generated brand tagline.
 
 ### 🌍 Project 3 *(Coming Soon)*  
-- Node.js + PostgreSQL project with advanced API integration.  
+- Node.js + PostgreSQL project with advanced API integration.
 
 ---
 
