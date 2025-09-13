@@ -13,7 +13,7 @@ I specialize in creating scalable web apps with **React, Vite, TailwindCSS, Node
 ---
 
 ## 🌐 Portfolio
-Check out my live portfolio → [myportfolio-nine-pi-17.vercel.app](https://www.digitalhus.com/)  
+Check out my live portfolio → [Hussein Salim portfolio](https://www.digitalhus.com/)  
 
 ---
 
